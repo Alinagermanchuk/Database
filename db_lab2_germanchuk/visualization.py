@@ -3,9 +3,9 @@ import psycopg2
 
 
 login_data = {
-    "user": "postgres",         # логин
-    "password": "Master123",    # пароль
-    "dbname": "alina",          # имя бд (PostgreSQL - Databases - <твоя_бд>)
+    "user": "postgres",
+    "password": "Elem654",
+    "dbname": "ex",
     "host": "localhost",
     "port": "5432"
 }
@@ -29,9 +29,9 @@ with psycopg2.connect(**login_data) as con:
 
     plt.title("Гра - Продажі")  # заголовок
     plt.bar([v[0] for v in values], [v[1] for v in values])
-    plt.xticks(rotation=90) # сделать вертикальными х подписи
+    plt.xticks(rotation=90)
     plt.ylabel("sales (million dollars)")
-    plt.tight_layout()  # это чтобы подписи не вылазили за картинку
+    plt.tight_layout()
     plt.savefig("img/6a.png")
     plt.show()
 
@@ -41,7 +41,6 @@ with psycopg2.connect(**login_data) as con:
     xs = [v[1] for v in values]
     plt.pie(x=xs, autopct=lambda x: f"{round(x,2)}%" if x > 0 else "")
 
-    # спижено с инета - размещение легенды:
     plt.legend(labels=[v[0] for v in values], loc="center right", bbox_to_anchor=(1.5, 0.5))
     plt.subplots_adjust(left=0.0, bottom=0.1, right=0.65)
 

@@ -2,8 +2,8 @@ import psycopg2
 
 login_data = {
     "user": "postgres",         # логин
-    "password": "Master123",    # пароль
-    "dbname": "alina",          # имя бд (PostgreSQL - Databases - <твоя_бд>)
+    "password": "Elem654",    # пароль
+    "dbname": "ex",
     "host": "localhost",
     "port": "5432"
 }
@@ -13,6 +13,14 @@ login_data = {
 with psycopg2.connect(**login_data) as con:
     # с помощью курсора мы выполняем запросы и извлекаем результаты
     cur = con.cursor()
+
+    with open("create.sql", "r") as f:
+        text = f.read()
+        cur.execute(text)
+
+    with open("populate.sql", "r") as f:
+        text = f.read()
+        cur.execute(text)
 
     with open("query.sql", "r") as f:
         # Поскольку мы хотим выполнять команды последовательно,
