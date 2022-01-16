@@ -1,0 +1,176 @@
+game_id,dev_id,publisher_id,title,release_date
+0,23,27,PlayerUnknown's Battlegrounds,Dec-17
+1,22,15,Minecraft,Nov-11
+2,46,34,Diablo III,May-12
+3,12,11,Garry's Mod,Nov-06
+4,38,23,Terraria,May-11
+5,46,34,World of Warcraft,Nov-04
+6,15,85,Half-Life 2,Nov-04
+7,6,5,The Witcher 3: Wild Hunt,May-15
+8,46,34,StarCraft,Mar-98
+9,84,14,The Sims,Feb-00
+10,24,54,Fall Guys,Aug-20
+11,94,95,RollerCoaster Tycoon 3,Oct-04
+12,15,59,Half-Life,Nov-98
+13,12,10,Rust,Feb-18
+14,109,42,Civilization V,Sep-10
+15,84,14,The Sims 3,Jun-09
+16,51,40,Euro Truck Simulator 2,Oct-12
+17,30,36,Guild Wars,Apr-05
+18,46,34,StarCraft II: Wings of Liberty,Jul-10
+19,84,14,The Sims 2,Sep-04
+20,36,55,Valheim,Feb-21
+21,81,69,ARMA 3,Sep-13
+22,28,47,Last Ninja 2,Aug-88
+23,47,33,Cities: Skylines,Mar-15
+24,30,36,Guild Wars 2,Aug-12
+25,84,14,SimCity 3000,Jan-99
+26,102,88,The Forest,Apr-18
+27,6,5,Cyberpunk 2077,Dec-20
+28,81,69,DayZ,Dec-13
+29,34,34,Diablo II,Jun-00
+30,42,14,Populous,Jun-89
+31,61,35,RollerCoaster Tycoon,Mar-99
+32,28,47,The Last Ninja,Jun-05
+33,65,83,"Warhammer 40,000: Dawn of War (including expansions)",Sep-04
+34,37,22,Where in the World Is Carmen Sandiego?,Jun-85
+35,25,77,Dark Souls,Aug-12
+36,25,7,Dark Souls III,Apr-16
+37,71,24,Age of Empires,Oct-97
+38,109,42,Civilization IV,Oct-05
+39,106,58,Command & Conquer,Aug-95
+40,106,58,Command & Conquer: Red Alert,Oct-96
+41,76,14,Crysis,Nov-07
+42,26,52,EverQuest,Mar-99
+43,56,66,Life Is Strange,Jan-15
+44,42,14,Theme Park,Jun-05
+45,46,41,Warcraft III: Reign of Chaos,Jul-02
+46,25,17,Dark Souls II,Apr-14
+47,44,16,Caesar II,Sep-95
+48,44,63,Caesar III,May-99
+49,100,86,Factorio,Feb-16
+50,44,28,Lords of the Realm II,Oct-96
+51,67,37,Myst,Sep-93
+52,72,75,Final Fantasy VII,Jun-98
+53,62,53,7 Days to Die,Jun-16
+54,71,24,Age of Empires II: The Age of Kings,Sep-99
+55,71,24,Age of Empires III,Oct-05
+56,49,38,Anno 1503,Mar-03
+57,49,38,Anno 1602,Sep-98
+58,95,72,Baldur's Gate,Dec-98
+59,95,72,Baldur's Gate II: Shadows of Amn,Sep-00
+60,41,14,Battlefield 1942,Sep-02
+61,105,49,Black & White,Mar-01
+62,109,92,Civilization III,Oct-01
+63,92,60,Cossacks II: Napoleonic Wars,Apr-05
+64,15,85,Counter-Strike: Condition Zero,Mar-04
+65,15,87,Counter-Strike: Source,Nov-04
+66,34,41,Diablo,Dec-96
+67,31,18,Doom,Dec-93
+68,31,91,Doom II: Hell on Earth,Sep-94
+69,76,3,Far Cry,Mar-04
+70,10,31,Grand Theft Auto V,Apr-15
+71,91,65,Mafia: The City of Lost Heaven,Aug-02
+72,101,33,Magicka,Jan-11
+73,95,92,Neverwinter Nights,Jun-02
+74,94,78,Planet Coaster,Nov-16
+75,7,3,POD,Feb-97
+76,21,14,SimCity,Mar-13
+77,84,1,SimCity 4,Jan-03
+78,33,19,Space Engineers,Oct-13
+79,84,14,Spore,Sep-08
+80,40,26,Stickfight: The Game,Sep-17
+81,64,4,Stronghold: Crusader,Jul-02
+82,83,50,The Binding of Isaac,Sep-11
+83,6,95,The Witcher,Oct-07
+84,6,5,The Witcher 2: Assassins of Kings,May-11
+85,46,34,Warcraft II: Tides of Darkness,Dec-95
+86,69,2,Metal Gear Solid V: The Phantom Pain,Sep-15
+87,51,40,American Truck Simulator,Oct-12
+88,28,25,International Karate,Nov-85
+89,57,46,Sega Mega Drive and Genesis Classics,Jun-10
+90,75,33,Stellaris,May-16
+91,45,32,Resident Evil 6,Mar-13
+92,58,55,Satisfactory,Mar-19
+93,45,32,Ultra Street Fighter IV,Jul-09
+94,54,66,Nier: Automata,Mar-17
+95,45,32,Resident Evil 4: Ultimate HD Edition,Feb-14
+96,103,89,Kingdom Come: Deliverance,Feb-18
+97,93,77,Pac-Man Championship Edition DX+,Sep-13
+98,71,24,Age of Mythology,Oct-02
+99,48,14,American McGee's Alice,Oct-00
+100,104,90,Ark: Survival Evolved,Jun-15
+101,41,14,Battlefield Vietnam,Mar-04
+102,96,51,BioShock,Aug-07
+103,106,58,Blade Runner,Nov-97
+104,8,6,Civilization II,Feb-96
+105,43,14,Command & Conquer 3: Tiberium Wars,Mar-07
+106,68,14,Command & Conquer: Red Alert 2,Oct-00
+107,106,14,Command & Conquer: Tiberian Sun,Aug-99
+108,17,75,Commandos: Behind Enemy Lines,Jun-98
+109,75,33,Crusader Kings II,Feb-12
+110,75,33,Crusader Kings III,Sep-20
+111,18,14,Crysis Warhead,Sep-08
+112,20,13,Cuphead,Sep-17
+113,88,74,Danganronpa 2: Goodbye Despair,Apr-16
+114,88,74,Danganronpa: Trigger Happy Havoc,Feb-16
+115,78,67,Daryl F. Gates' Police Quest: SWAT,Sep-95
+116,1,84,Deer Hunter,Nov-97
+117,86,71,Divinity: Original Sin II,Sep-17
+118,97,21,Duke Nukem 3D,Jan-96
+119,50,48,Dungeon Lords,May-05
+120,4,93,Dungeon Siege,Apr-02
+121,0,59,Empire Earth,Nov-01
+122,75,33,Europa Universalis IV,Aug-13
+123,55,30,Frogger,Nov-97
+124,53,44,Full Throttle,Apr-95
+125,27,60,Glory of the Roman Empire,Jun-06
+126,8,6,Grand Prix 2,Aug-96
+127,5,14,Harry Potter and the Philosopher's Stone,Nov-01
+128,75,33,Hearts of Iron IV,Jun-16
+129,91,4,Hidden & Dangerous,Jul-99
+130,91,4,Hidden & Dangerous 2,Oct-03
+131,74,62,Hollow Knight,Feb-17
+132,82,79,Hotel Giant,May-02
+133,99,81,Hydlide,Dec-84
+134,27,43,Imperivm: Great Battles of Rome,May-05
+135,11,8,Just Survive[e],Jan-15
+136,66,56,Killing Floor,May-09
+137,107,57,Machinarium,Oct-09
+138,108,93,Microsoft Flight Simulator X,Oct-06
+139,2,0,Mordhau,Apr-19
+140,60,20,Operation Flashpoint: Cold War Crisis,Jun-01
+141,32,9,Patrician III: Rise of the Hanse,Oct-03
+142,78,67,Phantasmagoria,Jul-95
+143,13,94,Prison Architect,Sep-12
+144,52,83,Psychonauts,Apr-05
+145,31,91,Quake,Jun-96
+146,31,47,Quake II,Dec-97
+147,77,65,Railroad Tycoon II,Nov-98
+148,45,32,Resident Evil 5,Sep-09
+149,59,47,Return to Castle Wolfenstein,Nov-01
+150,70,47,Return to Zork,Aug-93
+151,98,80,RoboCop,Dec-88
+152,73,47,Rome: Total War,Sep-04
+153,19,64,Runaway: A Road Adventure,Jul-01
+154,32,9,Sacred,Mar-04
+155,63,44,Star Wars Galaxies,Jun-03
+156,53,44,Star Wars: Rebel Assault,Nov-93
+157,46,34,StarCraft II: Heart of the Swarm,Mar-13
+158,46,34,StarCraft II: Legacy of the Void,Nov-15
+159,14,82,Stardew Valley,Feb-16
+160,64,4,Stronghold,Oct-01
+161,4,83,Supreme Commander,Feb-07
+162,90,76,Tetris,Jan-88
+163,80,68,The Legend of Sword and Fairy 3,Jul-03
+164,16,12,The Legend of Sword and Fairy 5,Jul-11
+165,87,73,The Stanley Parable,Oct-13
+166,9,91,Total Annihilation,Sep-97
+167,77,65,Tropico,Apr-01
+168,79,91,Unreal,May-98
+169,79,91,Unreal Tournament,Nov-99
+170,29,65,Vietcong,Mar-03
+171,89,14,Warhammer Online: Age of Reckoning,Sep-08
+172,85,29,Who Wants to Be a Millionaire?,Nov-99
+173,35,14,Wing Commander 3: Heart of the Tiger,Dec-94
+174,39,70,Zoo Tycoon,Oct-01
