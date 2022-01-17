@@ -1,4 +1,4 @@
--- повертає найуспішнішу гру за вказанним жанром
+-- -- РїРѕРІРµСЂС‚Р°С” РЅР°Р№СѓСЃРїС–С€РЅС–С€Сѓ РіСЂСѓ Р·Р° РІРєР°Р·Р°РЅРЅРёРј Р¶Р°РЅСЂРѕРј
 CREATE OR REPLACE FUNCTION get_most_selling_game_by_genre(genre_name text)
     RETURNS text AS
     $$
